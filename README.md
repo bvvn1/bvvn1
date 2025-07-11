@@ -2,26 +2,45 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmdHRhNDFtbGc4YWpjZGZ6Y3cwZWUycHpwZ2xtYjB3Yjlvb294OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rOq0GOVuD1I0sD9Cya/giphy.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bvvn1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bvvn1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="251" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjeHRieDZzcXRwaGc4bnlpNzk5aXZtcXJjYTY3Z3d6enZyMGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwpuMv6RBdK15gtASA/giphy.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="52" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="52" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="52" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="linux logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/bvvn1/bvvn1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/2mce7if981qm3c2adqhyinmr4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2mce7if981qm3c2adqhyinmr4&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Fiery_Ghost_.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Fiery_Ghost_.&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bvvn1.bvvn1&"  />
 </div>
 
 ###
