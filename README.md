@@ -23,14 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="linux logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bvvn1/bvvn1/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/2mce7if981qm3c2adqhyinmr4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=2mce7if981qm3c2adqhyinmr4&count=5" alt="Spotify recently played"  />
