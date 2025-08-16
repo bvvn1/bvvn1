@@ -29,15 +29,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bvvn1.bvvn1&"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bvvn1/bvvn1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bvvn1/bvvn1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bvvn1/bvvn1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <img align="right" height="251" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjeHRieDZzcXRwaGc4bnlpNzk5aXZtcXJjYTY3Z3d6enZyMGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwpuMv6RBdK15gtASA/giphy.gif"  />
 
