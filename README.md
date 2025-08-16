@@ -2,14 +2,14 @@
 
 ###
 
+<h3 align="left">Just a dood who likes learning and exploring new stuff</h3>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bvvn1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bvvn1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="251" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjeHRieDZzcXRwaGc4bnlpNzk5aXZtcXJjYTY3Z3d6enZyMGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwpuMv6RBdK15gtASA/giphy.gif"  />
 
 ###
 
@@ -23,16 +23,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="linux logo"  />
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/2mce7if981qm3c2adqhyinmr4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2mce7if981qm3c2adqhyinmr4&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bvvn1.bvvn1&"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bvvn1/bvvn1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bvvn1/bvvn1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bvvn1/bvvn1/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img align="right" height="251" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjeHRieDZzcXRwaGc4bnlpNzk5aXZtcXJjYTY3Z3d6enZyMGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwpuMv6RBdK15gtASA/giphy.gif"  />
 
 ###
