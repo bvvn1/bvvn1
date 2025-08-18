@@ -18,7 +18,7 @@
 ###
 
 <p align="center"> 
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=bvvn1&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="bvvmn" />
+  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=bvvn&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="bvvmn" />
   <img align="center" width=50% src="https://github-readme-streak-stats-eight.vercel.app/?user=bvvn1&theme=midnight-purple" alt="bvvn1">
 </p>
 
