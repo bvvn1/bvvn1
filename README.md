@@ -1,8 +1,8 @@
-<h2 align="left">Hi, I am Lyubomir, I am from Bulgaria.</h2>
+<h2 align="left">Hi, I am Lyubo, low level programmer from Bulgaria.</h2>
 
 ###
 
-<h3 align="left">Just a dood who likes learning and exploring new stuff</h3>
+
 
 
 <div align="left">
