@@ -16,10 +16,14 @@
 </div>
 
 ###
-<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=bvvn1&theme=neon&stats=true" alt="GitHub Contributions" />
 
 
 
 <img align="right" height="251" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjeHRieDZzcXRwaGc4bnlpNzk5aXZtcXJjYTY3Z3d6enZyMGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwpuMv6RBdK15gtASA/giphy.gif"  />
+
+
+###
+
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=bvvn1&theme=neon&stats=true" alt="GitHub Contributions" />
 
 ###
