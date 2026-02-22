@@ -16,12 +16,7 @@
 </div>
 
 ###
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bvvn1/github_languages/languages-dark.svg">
-    <img src="https://github.com/bvvn1/github_languages/languages-dark.svg" alt="Most used languages" />
-  </picture>
-</div>
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=bvvn1&theme=neon&stats=true" alt="GitHub Contributions" />
 
 
 
