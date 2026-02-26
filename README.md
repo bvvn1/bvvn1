@@ -19,8 +19,8 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats-sand-one-63.vercel.app/api/top-langs?username=bvvn1&hide=brainfuck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="flex-end">
+  <img src="https://github-readme-stats-sand-one-63.vercel.app/api/top-langs?username=bvvn1&hide=brainfuck&locale=en&hide_title=false&layout=pie&card_width=300&langs_count=10&theme=github_dark&hide_border=false&order=2" height="400" alt="languages graph"  />
 </div>
 
 ###
