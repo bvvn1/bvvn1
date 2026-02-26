@@ -21,12 +21,13 @@
 
 <div align="flex-end">
   <img src="https://github-readme-stats-sand-one-63.vercel.app/api/top-langs?username=bvvn1&hide=brainfuck&locale=en&hide_title=false&layout=pie&card_width=300&langs_count=10&theme=github_dark&hide_border=false&order=2" height="400" alt="languages graph"  />
+  <img align="right" height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjeHRieDZzcXRwaGc4bnlpNzk5aXZtcXJjYTY3Z3d6enZyMGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwpuMv6RBdK15gtASA/giphy.gif"  />
 </div>
 
 ###
 
 
-<img align="right" height="251" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjeHRieDZzcXRwaGc4bnlpNzk5aXZtcXJjYTY3Z3d6enZyMGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwpuMv6RBdK15gtASA/giphy.gif"  />
+
 
 
 ###
